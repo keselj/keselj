@@ -24,12 +24,16 @@ Passion for Front-end Development
 Front-end development has captured my interest and inspiration. The process of creating visually appealing and interactive user interfaces has been a fascinating experience for me. I am dedicated to honing my skills in this domain and exploring the latest trends and technologies.
 
 ## My Projects
+
 Tic Tac Toe Game
 https://github.com/keselj/tic-tac-toe{:target="_blank"}
+
 Rock-Paper-Scissors
 https://github.com/keselj/rock-paper-scissors{:target="_blank"}
+
 Amazon
 https://github.com/keselj/amazon-project{:target="_blank"}
+
 Todo-List
 https://github.com/keselj/todo-list{:target="_blank"}
 
