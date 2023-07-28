@@ -27,15 +27,11 @@ Front-end development has captured my interest and inspiration. The process of c
 
 [Tic Tac Toe Game](https://github.com/keselj/tic-tac-toe)
 
+[Rock-Paper-Scissors](https://github.com/keselj/rock-paper-scissors)
 
-Rock-Paper-Scissors
-https://github.com/keselj/rock-paper-scissors{:target="_blank"}
+[Amazon](https://github.com/keselj/amazon-project)
 
-Amazon
-https://github.com/keselj/amazon-project{:target="_blank"}
-
-Todo-List
-https://github.com/keselj/todo-list{:target="_blank"}
+[Todo-List](https://github.com/keselj/todo-list)
 
 Welcome to Tic Tac Toe! This is my first solo project, a classic game where you can challenge your friend and see who will emerge victorious in this epic battle of X's and O's.
 
