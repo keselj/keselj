@@ -25,8 +25,8 @@ Front-end development has captured my interest and inspiration. The process of c
 
 ## My Projects
 
-Tic Tac Toe Game
-https://github.com/keselj/tic-tac-toe{:target="_blank"}
+[Tic Tac Toe Game]([url](https://github.com/keselj/tic-tac-toe))
+
 
 Rock-Paper-Scissors
 https://github.com/keselj/rock-paper-scissors{:target="_blank"}
