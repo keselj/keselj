@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Milan
 
-I'm a self-taught passionate FrontEnd developer.
+I'm a FrontEnd developer.
 
-Technologies that are my primary focus are:
+Languages that are my primary focus are:
   - HTML/CSS
   - JavaScript
   - React
