@@ -1,31 +1,32 @@
 # Hi there! 👋 I'm Milan
 
-I'm a software engineer with focus on Frontend .
-Techonologies that I am currently focus on are:
+I'm a self-taught passionate FrontEnd developer.
+Technologies that are my primary focus are:
   - HTML/CSS
   - JavaScript
   - React
   - Solidity
-  - Git/Github
+  - Git/GitHub
 
 ## Learning Journey
 
-Solidity:
-Completed courses:
-Crypto Zombies
-Alchemy University
-Smaller projects on YouTube
-JavaScript/HTML/CSS:
-Completed courses:
-SuperSimpleDev from YouTube
-Alchemy University
-Worked on various smaller projects
-Python:
-Completed courses on Python 2 and 3 on CodeCademy
-React:
-Currently diving into the world of React and exploring its potential.
-Passion for Front-end Development
-Front-end development has captured my interest and inspiration. The process of creating visually appealing and interactive user interfaces has been a fascinating experience for me. I am dedicated to honing my skills in this domain and exploring the latest trends and technologies.
+#### JavaScript/HTML/CSS Completed courses:
+  - SuperSimpleDev from YouTube
+  - Alchemy University
+  - CodeCademy - HTML/CSS
+  - Worked on various projects from YouTube and on my own
+
+#### Solidity Completed courses:
+- Crypto Zombies
+- Alchemy University
+- Smaller projects on YouTube
+
+#### Python:
+- Completed courses on Python 2 and 3 on CodeCademy
+
+#### React:
+- Currently diving into the world of React and finishing the following course: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+
 
 ## My Projects
 
