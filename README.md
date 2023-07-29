@@ -8,8 +8,6 @@ Techonologies that I am currently focus on are:
   - Solidity
   - Git/Github
 
-Currently, I am being guided by a private tutor as I delve into various technologies, including JavaScript, HTML/CSS, React, Solidity, and Git/Github.
-
 ## Learning Journey
 
 Solidity:
