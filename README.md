@@ -1,8 +1,14 @@
 # Hi there! 👋 I'm Milan
 
-## About Me
+I'm a software engineer with focus on Frontend .
+Techonologies that I am currently focus on are:
+  - HTML/CSS
+  - JavaScript
+  - React
+  - Solidity
+  - Git/Github
 
-I am a passionate and enthusiastic learner with a focus on front-end development. My journey in the world of programming has been filled with exciting experiences and continuous growth. Currently, I am being guided by a private tutor as I delve into various technologies, including Solidity, JavaScript, HTML/CSS, React, and Git/Github.
+Currently, I am being guided by a private tutor as I delve into various technologies, including JavaScript, HTML/CSS, React, Solidity, and Git/Github.
 
 ## Learning Journey
 
