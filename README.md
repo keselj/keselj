@@ -43,7 +43,7 @@ Welcome to Tic Tac Toe! This is my first solo project, a classic game where you 
 Important Note: This game features some sarcastic jokes for winners and losers. If you have a good sense of humor and don't mind some playful banter, you'll have a great time playing!
 
 Check out the Tic Tac Toe Game
-[Play Tic Tac Toe](https://64c2c4f8d4dc35006bfc631b--delicate-kangaroo-73407f.netlify.app/)
+[Play Tic Tac Toe]([https://64c2c4f8d4dc35006bfc631b--delicate-kangaroo-73407f.netlify.app/](https://keselj.github.io/tic-tac-toe/))
 
 Goals
 Connecting React with Solidity using Truffle is one of my current goals, as I believe it will open up exciting possibilities in decentralized applications.
