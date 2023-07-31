@@ -31,25 +31,29 @@ Languages that are my primary focus are:
 
 ## My Projects
 
-[Tic Tac Toe Game](https://github.com/keselj/tic-tac-toe)
+- [Tic Tac Toe Game](https://github.com/keselj/tic-tac-toe)
 
-[Rock-Paper-Scissors](https://github.com/keselj/rock-paper-scissors)
+  Welcome to Tic Tac Toe! This is my first solo project, a classic game where you can challenge your friend and see who will emerge victorious in this epic battle of X's and O's.
 
-[Amazon](https://github.com/keselj/amazon-project)
+  Important Note: This game features some sarcastic jokes for winners and losers. If you have a good sense of humor and don't mind some playful banter, you'll have a great time playing!
 
-[Todo-List](https://github.com/keselj/todo-list)
+  Check out the Tic Tac Toe Game
 
-Welcome to Tic Tac Toe! This is my first solo project, a classic game where you can challenge your friend and see who will emerge victorious in this epic battle of X's and O's.
+  [Play Tic Tac Toe](https://keselj.github.io/tic-tac-toe/)
 
-Important Note: This game features some sarcastic jokes for winners and losers. If you have a good sense of humor and don't mind some playful banter, you'll have a great time playing!
+- [Rock-Paper-Scissors](https://github.com/keselj/rock-paper-scissors)
 
-Check out the Tic Tac Toe Game
+- [Amazon](https://github.com/keselj/amazon-project)
 
-[Play Tic Tac Toe](https://keselj.github.io/tic-tac-toe/)
+- [Todo-List](https://github.com/keselj/todo-list)
 
-Goals
+
+## Goals
+
 Connecting React with Solidity using Truffle is one of my current goals, as I believe it will open up exciting possibilities in decentralized applications.
-Get in Touch
+
+## Get in Touch
+
 I'm always eager to collaborate, learn from others, and share my knowledge. If you'd like to connect or have any feedback/suggestions, feel free to reach out to me.
 
 Happy coding! 😄✨
