@@ -37,9 +37,7 @@ Languages that are my primary focus are:
 
   Important Note: This game features some sarcastic jokes for winners and losers. If you have a good sense of humor and don't mind some playful banter, you'll have a great time playing!
 
-  Check out the Tic Tac Toe Game
-
-  [Play Tic Tac Toe](https://keselj.github.io/tic-tac-toe/)
+   [Play Tic Tac Toe](https://keselj.github.io/tic-tac-toe/)
 
 - [Rock-Paper-Scissors](https://github.com/keselj/rock-paper-scissors)
 
